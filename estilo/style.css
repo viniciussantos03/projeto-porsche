@@ -80,6 +80,7 @@ header a:hover {
     padding: 2px 4px;
     border-radius: 5px;
     font-weight: bold;
+    transition: 0.5s;
 }
 
 main {
@@ -171,6 +172,7 @@ main a:hover {
     text-decoration: underline;
     color: var(--cor-03);
     background-color: var(--cor-01);
+    transition: 0.5s;
 }
 
 main a::after {
@@ -202,4 +204,5 @@ footer a:hover {
     padding: 2px 4px;
     border-radius: 5px;
     font-weight: bold;
+    transition: 0.5s;
 }
